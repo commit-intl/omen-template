@@ -1,0 +1,23 @@
+{
+  "name": "omen-template",
+  "version": "1.0.0",
+  "description": "template for omen init",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/commit-intl/omen-template.git"
+  },
+  "author": "Dustin Hagemeier <dustin@commit.international>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/commit-intl/omen-template/issues"
+  },
+  "homepage": "https://github.com/commit-intl/omen-template#readme",
+  "scripts": {
+    "start": "omen serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@omen/cli": "^0.1.3"
+  }
+}
